@@ -3,9 +3,9 @@
 
 ## INDICE
 * [1. Intro](https://github.com/Diaragones/Google_clone/edit/main/README.md#1-intro)
-* [2. What I build]()
-* [3. Objectives of the proyect]()
-* [4. Link to Demo!]()
+* [2. What I build](https://github.com/Diaragones/Google_clone/edit/main/README.md#2-what-i-build-%EF%B8%8F)
+* [3. Objectives of the proyect](https://github.com/Diaragones/Google_clone/edit/main/README.md#3-objetives-of-the-proyect-)
+* [4. Link to Demo!](https://github.com/Diaragones/Google_clone/edit/main/README.md#4-link-al-demo-)
 
 ***
 
@@ -25,4 +25,4 @@ The proyect is focused on the google's user interfaz with special attention to t
 The main objective was to learn to use and put in practice different HMTL and CSS elements using inspection to identify the components of a web page and replicate them. 
 
 ## 4. Link al Demo! 🔗
-Here you can take a look in the final result: [Google_clone](https://diaragones.github.io/)
+Here you can take a look in the final result: [Google_clone](https://diaragones.github.io/Google_clone/)
