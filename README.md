@@ -26,3 +26,6 @@ The main objective was to learn to use and put in practice different HMTL and CS
 
 ## 4. Link al Demo! 🔗
 Here you can take a look in the final result: [Google_clone](https://diaragones.github.io/Google_clone/)
+
+## THIS IS HOW IT LOOKS LIKE! 
+<img width="1433" alt="Screen Shot 2023-04-26 at 20 47 39" src="https://user-images.githubusercontent.com/131728305/234747012-a400e012-70b3-42b5-8ad8-fb1d90c016be.png">
